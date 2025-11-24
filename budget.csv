@@ -1,0 +1,19 @@
+date,category,description,amount,type
+2025-10-01,Salary,October paycheck,3200,Income
+2025-10-03,Rent,Apartment rent,1200,Expense
+2025-10-04,Groceries,Food & supplies,160,Expense
+2025-10-08,Utilities,Electricity bill,85,Expense
+2025-10-11,Transport,GAS refill,60,Expense
+2025-10-15,Entertainment,Concert tickets,90,Expense
+2025-10-22,Freelance,Side project payment,450,Income
+2025-11-01,Salary,November paycheck,3200,Income
+2025-11-02,Rent,Apartment rent,1200,Expense
+2025-11-03,Groceries,Food & supplies,150,Expense
+2025-11-04,Utilities,Electricity,80,Expense
+2025-11-06,Internet,WiFi bill,60,Expense
+2025-11-09,Entertainment,Movie night,45,Expense
+2025-11-15,Dining,Dinner with friends,70,Expense
+2025-11-18,Transport,Gas refill,60,Expense
+2025-11-22,Freelance,Side hustle payment,500,Income
+2025-11-25,Groceries,Weekly groceries,180,Expense
+2025-11-29,Gift,Birthday gift,50,Expense
